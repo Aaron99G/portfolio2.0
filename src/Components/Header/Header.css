@@ -43,8 +43,8 @@ header {
 
 /* Me */
 
-.me {
-    background: var(--color-primary);
+.mypic {
+    background: linear-gradient(var(--color-primary), transparent);
     width: 22rem;
     height: 30rem;
     position: absolute;
@@ -52,6 +52,7 @@ header {
     margin-top: 4rem;
     border-radius: 12rem 12rem 0 0;
     padding: 5rem 1.5rem 1.5rem 1.5rem;
+    overflow: hidden;
 }
 
 

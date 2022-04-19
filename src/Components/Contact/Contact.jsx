@@ -29,14 +29,8 @@ function Contact() {
           <article className="contact-option">
             <MdEmail className="contact-option-icon"/>
             <h4>Email</h4>
-            <h5>email@email.com</h5>
+            <h5>aaronraulgonzalez@gmail.com</h5>
             <a href="mailto:email@email.com">Send Email</a>
-          </article>
-          <article className="contact-option">
-            <MdEmail className="contact-option-icon"/>
-            <h4>Message</h4>
-            <h5>123-456-1234</h5>
-            <a href="mailto:email@email.com">Send Message</a>
           </article>
 
         </div>
