@@ -8,8 +8,7 @@ import {GrMysql} from "react-icons/gr"
 function Experience() {
   return (
     <section id="experience">
-      <h5>What skills I have</h5>
-      <h2>My Experience</h2>
+      <h2>My Skills</h2>
 
       <div className="container experience-container">
         <div className="experience-frontend">
@@ -19,7 +18,7 @@ function Experience() {
               <div>
                 <h4>HTML</h4>
                 <FaHtml5 className="experience-details-icon"/>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Intermediate</small>
               </div>
               
             </article>
@@ -27,7 +26,7 @@ function Experience() {
               <div>
                 <h4>CSS</h4>
                 <FaCss3Alt className="experience-details-icon"/>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Intermediate</small>
               </div>
               
             </article>
@@ -35,7 +34,7 @@ function Experience() {
               <div>
                 <h4>JavaScript</h4>
                 <SiJavascript className="experience-details-icon"/>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Intermediate</small>
               </div>
               
             </article>
@@ -88,7 +87,7 @@ function Experience() {
             <div>
               <h4>Python</h4>
               <SiPython className="experience-details-icon"/>
-              <small className="text-light">Experienced</small>
+              <small className="text-light">Intermediate</small>
             </div>
               
             </article>

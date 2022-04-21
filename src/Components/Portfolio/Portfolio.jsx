@@ -1,31 +1,35 @@
 import React from 'react'
 import "./Portfolio.css"
+import Construction from "../../Assets/Construction.jpg"
+import SpaceVader from "../../Assets/SpaceVader.png"
+import Store from "../../Assets/Store.png"
+import Mp3 from "../../Assets/Mp3.png"
 
 const data = [
   {
     id: 1,
-    image: 'https://cdn.pixabay.com/photo/2016/04/04/14/12/monitor-1307227_960_720.jpg',
+    image: SpaceVader,
     title: 'Space Invaderz',
     github: 'https://github.com/',
     demo: 'https://demo.com/'
   },
   {
     id: 2,
-    image: 'https://cdn.pixabay.com/photo/2016/04/04/14/12/monitor-1307227_960_720.jpg',
+    image: Mp3,
     title: 'MP3 Player',
     github: 'https://github.com/',
     demo: 'https://demo.com/'
   },
   {
     id: 3,
-    image: 'https://cdn.pixabay.com/photo/2016/04/04/14/12/monitor-1307227_960_720.jpg',
+    image: Store,
     title: 'Online Store',
     github: 'https://github.com/',
     demo: 'https://demo.com/'
   },
   {
     id: 4,
-    image: 'https://cdn.pixabay.com/photo/2016/04/04/14/12/monitor-1307227_960_720.jpg',
+    image: Construction,
     title: 'Netflix Clone',
     github: 'https://github.com/',
     demo: 'https://demo.com/'
@@ -35,8 +39,7 @@ const data = [
 const Portfolio = () => {
   return (
     <section>
-      <h5>My Recent Projects</h5>
-      <h2>Portfolio</h2>
+      <h2>Projects</h2>
 
       <div className="container portfolio-container">
       {

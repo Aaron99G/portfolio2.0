@@ -6,7 +6,6 @@ import {FaAward} from "react-icons/fa"
 const About = () => {
   return (
     <section id="about">
-      <h5>Get to know</h5>
       <h2>About Me</h2> 
 
       <div className="container about-container">
@@ -23,20 +22,12 @@ const About = () => {
               <h5>Experience</h5>
               <small>DevMountain Student Developer</small>
             </article>
-            <article className="about-card">
-              <FaAward className="about-icon" />
-              <h5>Experience</h5>
-              <small>DevMountain Student Developer</small>
-            </article>
-            <article className="about-card">
-              <FaAward className="about-icon" />
-              <h5>Experience</h5>
-              <small>DevMountain Student Developer</small>
-            </article>
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos eos ex iure consectetur cum eum ab molestiae reiciendis dicta explicabo incidunt, quaerat possimus nihil magnam, repudiandae id aliquid voluptates voluptas?
+            I am Aaron Gonzalez, a Full Stack Web Developer that is enthusiastic about his work.
+            Hobbies include video games, star-gazing, and anything to do about cool new technologies.
+            Also a big fan of Studio Ghibli movies.
           </p>
 
           <a href="#contact" className="btn btn-primary">Lets Talk</a>

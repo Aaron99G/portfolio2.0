@@ -9,16 +9,16 @@ const Footer = () => {
     <footer>
       <a href="#" className="footer-logo">Aaron</a>
       <ul className="permalinks">
-        <li><a href="#"></a>Home</li>
-        <li><a href="#"></a>About</li>
-        <li><a href="#"></a>Experience</li>
-        <li><a href="#"></a>Portfolio</li>
-        <li><a href="#"></a>Contact</li>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Experience</a></li>
+        <li><a href="#">Portfolio</a></li>
+        <li><a href="#">Contact</a></li>
       </ul>
 
       <div className="footer-socials">
-        <a href="https://github.com/"><FaGithub /></a>
-        <a href="https://linkedin.com/"><BsLinkedin /></a>
+        <a href="https://github.com/Aaron99G"><FaGithub /></a>
+        <a href="https://www.linkedin.com/in/aaron-gonzalez-9078541a4/"><BsLinkedin /></a>
       </div>
     </footer>
   )
