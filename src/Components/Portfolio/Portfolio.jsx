@@ -10,29 +10,29 @@ const data = [
     id: 1,
     image: SpaceVader,
     title: 'Space Invaderz',
-    github: 'https://github.com/',
-    demo: 'https://demo.com/'
+    github: 'https://github.com/Aaron99G/space-invaders.git',
+    demo: 'https://youtube.com/shorts/Y56STStIvHM?feature=share'
   },
   {
     id: 2,
     image: Mp3,
     title: 'MP3 Player',
-    github: 'https://github.com/',
-    demo: 'https://demo.com/'
+    github: 'https://github.com/Aaron99G/Music-Player.git',
+    demo: 'https://aaron99g.github.io/Music-Player/'
   },
   {
     id: 3,
     image: Store,
     title: 'Online Store',
-    github: 'https://github.com/',
-    demo: 'https://demo.com/'
+    github: 'https://github.com/Aaron99G/web-store.git',
+    demo: 'https://web-store-rouge.vercel.app/'
   },
   {
     id: 4,
     image: Construction,
     title: 'Netflix Clone',
-    github: 'https://github.com/',
-    demo: 'https://demo.com/'
+    github: 'https://github.com',
+    demo: 'http://www.donothingfor2minutes.com/'
   },
 ]
 
