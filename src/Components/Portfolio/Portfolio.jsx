@@ -36,7 +36,7 @@ const data = [
     image: Netflix,
     title: 'Netflix Clone',
     github: 'https://github.com/Aaron99G/netflix-clone.git',
-    demo: 'https://portfolio2-0-kappa.vercel.app/',
+    demo: 'https://fluffy-otter-7fa256.netlify.app/',
     description: 'A clone of Netflix created using JavaScript, React, GraphQL, and Html/CSS'
   },
 ]
