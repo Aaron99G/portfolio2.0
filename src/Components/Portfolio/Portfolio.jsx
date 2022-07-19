@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Portfolio.css"
-import Construction from "../../Assets/Construction.jpg"
+import Construction from "../../Assets/Construction.jpg" //Save for future projects
 import SpaceVader from "../../Assets/SpaceVader.png"
 import Store from "../../Assets/Store.png"
 import Mp3 from "../../Assets/Mp3.png"
